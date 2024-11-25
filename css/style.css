@@ -106,8 +106,8 @@
 
 /*** Topbar Start ***/
 .logo {
-  width: 150px; /* Sesuaikan lebar gambar */
-  height: 40px; /* Menjaga proporsi gambar */
+  width: 100px; /* Sesuaikan lebar gambar */
+  height: 25px; /* Menjaga proporsi gambar */
 }
 
 .hover-icon {
