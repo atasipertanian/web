@@ -212,7 +212,7 @@
 
   .navbar.navbar-expand-lg .navbar-toggler {
     padding: 8px 15px;
-    border: 1px solid var(--bs-secondary);
+    border: 0px solid var(--bs-secondary);
     color: var(--bs-secondary);
   }
 }
